@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "diffEditor.insertedTextBackground": "#3d4f3b",
+    "diffEditor.insertedTextBorder": "#3d4f3b",
+    "diffEditor.removedTextBackground": "#5e2629",
+    "diffEditor.removedTextBorder": "#5e2629"
+  }
+}

@@ -1,0 +1,10 @@
+com\example\qna\repositories\UserRepository.class
+com\example\qna\controllers\UserController.class
+com\example\qna\entities\Question.class
+com\example\qna\entities\User.class
+com\example\qna\entities\Answer.class
+com\example\qna\responseFormats\SubmissionShowJson.class
+com\example\qna\controllers\AnswerController.class
+com\example\qna\controllers\QuestionController.class
+com\example\qna\repositories\AnswerRepository.class
+com\example\qna\repositories\QuestionRepository.class
